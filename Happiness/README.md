@@ -7,9 +7,9 @@ https://github.com/DataScienceRoadMapDSRM/Tableau-Dashboards-info/blob/main/Worl
 Data Science Roadmap
 
 ## Project
-In which countries are people the happiest?  What factors continue to happiness?
+In which countries are people the happiest?  What factors contribute to happiness?
 
-<img src=""
+<img src="https://github.com/Sarah269/supreme-fiesta/blob/main/Happiness/World%20Happiness.png" height=400 />
 
 ## Findings
 GNP, Life expectancy, and freedom have a postive correlation with the Happiness score for a country.
