@@ -7,7 +7,7 @@ https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbkc
 Excel file, Power BI
 
 ## Reference
-Chando HR Data Analytics & Dashboard in Power BI
+[Chando HR Data Analytics & Dashboard in Power BI](https://www.youtube.com/watch?v=5KaIU-9EF-0)
 
 ## Project
 This project performs analysis on HR data then creates a dashboard.
