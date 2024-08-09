@@ -7,7 +7,7 @@ Kaggle:  https://www.kaggle.com/datasets/imakash3011/customer-personality-analys
 Power BI, csv file
 
 ## Reference
-Data Science Roadmap Customer Personality Analysis
+DataScience RoadMap Customer Personality Analysis
 
 ## Project
 This project explores customer data to gain insights on the characteristics of the company's customers.  Customer personality is based on a marketing strategy called the 4 p's: product, place, promotion, and price.
