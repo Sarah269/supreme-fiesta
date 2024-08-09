@@ -17,7 +17,7 @@ This project explores customer data to gain insights on the characteristics of t
 ## Findings
 * Age:  There is a large cluster of customers born in the 70's.  There is a smaller cluster of customers born in the 50s.
 * Average income: $54.5k
-* Education:  Over 50% have a high school diploma, bachelors (22%), or masters
+* Education:  Over 50% have graduation, masters, or PhD
 * Martial Status:  47% unmarried
 * Majority have at least 1 child
 * Customers are heavy purchasers of meat products: 55%
