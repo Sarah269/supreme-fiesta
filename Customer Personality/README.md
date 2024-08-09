@@ -4,7 +4,7 @@
 Kaggle:  https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis?resource=download
 
 ## Tools
-Power BI, Excel file
+Power BI, csv file
 
 ## Reference
 Data Science Roadmap Customer Personality Analysis
