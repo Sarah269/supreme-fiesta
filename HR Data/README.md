@@ -12,7 +12,7 @@ Chando HR Data Analytics & Dashboard in Power BI
 ## Project
 This project performs analysis on HR data then creates a dashboard.
 
-<img src=""
+<img src="https://github.com/Sarah269/supreme-fiesta/blob/main/HR%20Data/HR%20Dashboard.png" height=400 />
 
 ## Analysis
 1) How many people are in each job?
