@@ -14,6 +14,11 @@ In which countries are people the happiest?  What factors contribute to happines
 
 <img src="https://github.com/Sarah269/supreme-fiesta/blob/main/Happiness/World%20Happiness.png" height=400 />
 
+## Power BI
+*  Data model contained one table
+*  Created three measures
+*  Flexible title
+
 ## Findings
 GNP, Life expectancy, and freedom have a postive correlation with the Happiness score for a country.
 
