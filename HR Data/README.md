@@ -14,6 +14,11 @@ This project performs analysis on HR data then creates a dashboard.
 
 <img src="https://github.com/Sarah269/supreme-fiesta/blob/main/HR%20Data/HR%20Dashboard.png" height=400 />
 
+## Power BI
+*  Data model contained two tables
+  *  Created a table to associate numerical values to categorical data
+*  Created 8 measures
+
 ## Analysis
 1) How many people are in each job?
 2) Gender break-down of the staff
