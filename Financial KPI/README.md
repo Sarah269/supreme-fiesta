@@ -14,6 +14,11 @@ This project creates a financial dashboard with KPIs to evaluate company perform
 
 <img src = "https://github.com/Sarah269/supreme-fiesta/blob/main/Financial%20KPI/Financial%20KPI.png" height=400 />
 
+## Power BI
+*  Data model contained four tables: Actual, Targets, Calendar, dimPeople
+*  Created 12 measures
+*  Flexible title
+
 ## Findings
 * Company met projected sales targets twice in 14 months.
 * Actual sales decreased 14.54% between January 2023 and February 2024.
