@@ -32,11 +32,15 @@ This project performs analysis on HR data then creates a dashboard.
 
 # Findings
 * Headcount: 161
-* Age range groups : 15 -20 to 65-70
+* Age: The employee ages range from 23-66, with the bulk of the employees falling in the 26-30 age range. 
 * Average salary: $54k
 * Average PTO: 16
 * Number of employees with more than 20 days PTO: 29
 * New Hires: 23 people joined the company in 2023
+
+## Call to Action
+- The company needs to educate the employees on the importance of utilizing their paid time-off.
+- It is important for the employees to prioritize their well-being.
 
 
 
