@@ -10,6 +10,9 @@
 
 ## Findings
 - 25% of North Carolina students did not meet standards
-- Region 6 students made the most progress
+- Region 6 students made the most progress.
+- Region 8 has the highest average achievment score.
 - 35% of Region 6 students had achievement scores >= 70, while Region 4 has the lowest percentage at 11%.
+  
+
   
