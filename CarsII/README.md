@@ -3,6 +3,7 @@
 ## Project
 Designed a dashboard to analyze dealership performance.
 
+<img src="https://github.com/Sarah269/supreme-fiesta/blob/main/CarsII/CarsII.png" height=350>
 
 [Dashboard](https://public.tableau.com/app/profile/s.pfeiffer2269/viz/CarsII/Dashboard1)
 
@@ -21,4 +22,5 @@ Designed a dashboard to analyze dealership performance.
 - 62% of cars sold were Sedans.
 - Merceded-Benz C240 4dr was the best selling car by make/model.  The dealership sold 6 Merceded-Benz C240 4dr.
 
-  
+## Recommendation
+-Reduce inventory and focus on those cars that are selling. 
