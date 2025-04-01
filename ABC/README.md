@@ -4,7 +4,7 @@
 ## Project
 Develop a dashboard to summarize ABC's profit for the period 1999 to 2002
 
-
+<img src="https://github.com/Sarah269/supreme-fiesta/blob/main/ABC/ABC_Dashboard.png" height=350>
 
 ## Data Source
 - SAS dataset orsales
@@ -14,6 +14,7 @@ Develop a dashboard to summarize ABC's profit for the period 1999 to 2002
 - SAS Studio, Tableau
 
 ## Findings
+- Profit for this period was $53 million dollars with a profit margin of 53.06%.
 - Outdoors was the most profitable product category while Swim Sports was the least.
 - Profit for the product groups Skates and Eclipse Shoes exceeded $1 million dollars for each year.  They were the most successful product groups.
 - The least profitable product line was Childrens.  Sales were consistently below $1 million dollars.
