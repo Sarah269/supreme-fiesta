@@ -4,7 +4,10 @@
 ## Project 
 Analyze Humana’s market share of Florida Medicaid patients
 
-
+<p float=left>
+<img src="https://github.com/Sarah269/supreme-fiesta/blob/main/Humana%20Medicaid/Humana_1.png" width="49%">
+<img src="https://github.com/Sarah269/supreme-fiesta/blob/main/Humana%20Medicaid/Humana_2.png" width="49%">
+</p>
 
 
 ## Reference
