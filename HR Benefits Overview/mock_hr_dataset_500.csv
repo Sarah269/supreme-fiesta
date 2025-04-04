@@ -1,0 +1,501 @@
+Employee ID,Age,Age_Group,Gender,Work Arrangement,Department,Job Title,Salary ($),Retirement Plan,Contribution (%),Retirement Savings ($),Health Insurance,Dental Insurance,Life Insurance,PTO Allocated (Days),Marital Status
+E00001,58,51 - 60,Male,Hybrid,HR,HR Manager,65795,Safe Harbor,7,12209.18,None,None,None,19,Married
+E00002,40,31 - 40,Male,Hybrid,Sales,Sales Manager,104886,401(k),4,10085.63,Standard,Premium,Standard,22,Single
+E00003,30,20 - 30,Male,WFH,Finance,Accountant,94131,Roth,10,69399.52,None,Premium,Standard,17,Single
+E00004,21,20 - 30,Female,On-site,Finance,Accountant,109735,Roth,6,62199.82,None,Premium,Standard,13,Single
+E00005,40,31 - 40,Female,On-site,Marketing,Marketing Manager,133104,401(k),6,51949.52,Premium,None,Standard,24,Single
+E00006,63,61 - 70,Female,On-site,IT,IT Support,143016,Roth,0,0.0,Premium,None,Standard,22,Single
+E00007,61,51 - 60,Male,On-site,Finance,Financial Analyst,68431,Simple,6,40088.79,None,Standard,None,25,Married
+E00008,66,61 - 70,Female,WFH,IT,Network Engineer,85773,None,0,0.0,Standard,Standard,None,14,Divorced
+E00009,63,61 - 70,Male,Hybrid,IT,IT Support,106886,401(k),6,40606.4,None,Premium,None,14,Married
+E00010,56,51 - 60,Male,Hybrid,IT,Systems Administrator,53890,Safe Harbor,9,12293.63,Standard,Premium,Standard,18,Married
+E00011,37,31 - 40,Female,On-site,HR,HR Coordinator,60627,None,0,0.0,Premium,Premium,Standard,20,Divorced
+E00012,33,31 - 40,Female,On-site,HR,Recruiter,123969,401(k),4,18553.32,Standard,Premium,Standard,16,Married
+E00013,21,20 - 30,Female,WFH,HR,HR Coordinator,73483,Safe Harbor,9,42921.22,None,Premium,Standard,19,Divorced
+E00014,66,61 - 70,Female,Hybrid,Finance,Financial Analyst,130077,401(k),0,0.0,None,None,Standard,15,Divorced
+E00015,69,61 - 70,Female,On-site,Marketing,Brand Strategist,119479,Simple,6,27279.92,None,None,None,17,Single
+E00016,61,51 - 60,Female,Hybrid,Sales,Sales Associate,102995,401(k),8,10561.68,Premium,None,Standard,13,Married
+E00017,45,41 - 50,Female,On-site,Engineering,Software Engineer,121211,Simple,4,22091.2,Premium,None,None,15,Single
+E00018,33,31 - 40,Male,On-site,HR,HR Coordinator,82606,None,0,0.0,Standard,Standard,Standard,19,Divorced
+E00019,33,31 - 40,Male,WFH,Sales,Sales Associate,141387,Safe Harbor,0,0.0,Standard,None,Standard,25,Married
+E00020,59,51 - 60,Female,WFH,Finance,Accountant,139812,None,0,0.0,Premium,Standard,Standard,24,Single
+E00021,37,31 - 40,Male,Hybrid,Sales,Sales Associate,132798,401(k),7,58385.07,Premium,None,Standard,20,Single
+E00022,64,61 - 70,Female,Hybrid,Sales,Sales Associate,88044,Safe Harbor,9,19710.08,Standard,None,None,20,Divorced
+E00023,26,20 - 30,Female,Hybrid,HR,Recruiter,52568,Safe Harbor,10,23939.12,None,Premium,Standard,19,Married
+E00024,43,41 - 50,Female,On-site,Finance,Financial Analyst,98190,401(k),5,13695.45,None,None,Standard,19,Single
+E00025,54,51 - 60,Male,On-site,Sales,Sales Manager,111858,401(k),0,0.0,Standard,None,None,22,Single
+E00026,24,20 - 30,Female,Hybrid,Marketing,Content Specialist,53561,Roth,9,33067.08,Standard,None,Standard,23,Divorced
+E00027,26,20 - 30,Male,Hybrid,IT,IT Support,58392,None,0,0.0,Standard,None,None,19,Single
+E00028,31,31 - 40,Male,Hybrid,HR,HR Coordinator,102256,Roth,10,44352.15,None,Standard,Standard,25,Single
+E00029,43,41 - 50,Female,On-site,HR,HR Manager,146354,Simple,6,59168.15,None,Premium,None,22,Single
+E00030,54,51 - 60,Male,On-site,Finance,Finance Manager,120592,Safe Harbor,5,12519.55,Standard,None,Standard,25,Married
+E00031,22,20 - 30,Female,Hybrid,HR,Recruiter,102992,None,0,0.0,None,None,Standard,16,Divorced
+E00032,45,41 - 50,Male,WFH,Marketing,Content Specialist,148806,Safe Harbor,9,44257.19,Premium,None,None,22,Married
+E00033,28,20 - 30,Female,WFH,HR,Recruiter,50206,401(k),9,9028.12,Premium,Standard,Standard,23,Married
+E00034,32,31 - 40,Female,Hybrid,Marketing,Marketing Manager,100015,Roth,9,47512.11,Premium,Standard,None,24,Married
+E00035,51,51 - 60,Male,On-site,IT,Systems Administrator,137939,401(k),8,24872.97,Premium,Premium,None,18,Single
+E00036,64,61 - 70,Male,Hybrid,Engineering,Software Engineer,117214,Safe Harbor,5,16571.43,Standard,None,Standard,24,Divorced
+E00037,51,51 - 60,Male,Hybrid,Sales,Account Executive,131734,401(k),5,47773.76,Premium,Premium,None,23,Divorced
+E00038,21,20 - 30,Female,On-site,HR,Recruiter,114044,Simple,8,61133.37,None,Standard,Standard,17,Single
+E00039,47,41 - 50,Male,On-site,HR,HR Coordinator,145259,Simple,6,23350.07,None,Premium,None,25,Married
+E00040,30,20 - 30,Male,WFH,HR,HR Manager,68047,Safe Harbor,4,5712.66,Premium,None,None,20,Married
+E00041,58,51 - 60,Female,On-site,Marketing,Content Specialist,73776,None,0,0.0,None,None,Standard,12,Married
+E00042,46,41 - 50,Male,WFH,Engineering,Lead Engineer,111373,401(k),0,0.0,None,Premium,Standard,15,Single
+E00043,32,31 - 40,Female,Hybrid,Sales,Sales Associate,105016,Roth,5,5579.34,Standard,Standard,None,19,Single
+E00044,46,41 - 50,Female,WFH,HR,HR Manager,144856,Safe Harbor,8,34753.51,Premium,None,None,14,Divorced
+E00045,61,51 - 60,Female,WFH,Finance,Finance Manager,116199,401(k),9,26297.66,None,Premium,None,19,Single
+E00046,60,51 - 60,Female,WFH,Sales,Sales Associate,104384,Safe Harbor,8,81386.44,None,Standard,Standard,15,Single
+E00047,31,31 - 40,Female,Hybrid,Finance,Accountant,102733,None,0,0.0,Standard,None,None,18,Divorced
+E00048,21,20 - 30,Female,Hybrid,Finance,Financial Analyst,139474,401(k),0,0.0,Premium,Premium,None,16,Married
+E00049,68,61 - 70,Female,WFH,Engineering,DevOps Engineer,143264,Simple,5,46461.08,Standard,Standard,Standard,13,Single
+E00050,47,41 - 50,Female,On-site,Finance,Finance Manager,50854,401(k),7,14615.18,Premium,Premium,Standard,12,Married
+E00051,38,31 - 40,Female,WFH,Marketing,Brand Strategist,96717,None,0,0.0,None,Standard,None,13,Married
+E00052,63,61 - 70,Female,Hybrid,HR,Recruiter,76309,401(k),10,48336.18,Standard,Standard,None,18,Single
+E00053,30,20 - 30,Female,On-site,Engineering,Lead Engineer,62688,401(k),9,46423.17,None,None,None,16,Divorced
+E00054,53,51 - 60,Female,WFH,HR,Recruiter,115733,Simple,8,53903.54,None,None,None,12,Single
+E00055,28,20 - 30,Female,On-site,Engineering,Software Engineer,92107,Roth,5,12336.2,None,Premium,None,24,Married
+E00056,22,20 - 30,Male,WFH,HR,HR Coordinator,99811,401(k),6,42507.98,Premium,None,None,14,Divorced
+E00057,45,41 - 50,Female,Hybrid,Sales,Account Executive,84754,401(k),9,23176.96,Premium,Standard,Standard,18,Divorced
+E00058,60,51 - 60,Male,WFH,IT,Network Engineer,134896,Roth,10,60441.75,None,Premium,Standard,13,Single
+E00059,59,51 - 60,Female,WFH,Finance,Accountant,87504,Safe Harbor,5,17805.3,Premium,Standard,Standard,20,Single
+E00060,69,61 - 70,Male,On-site,HR,HR Coordinator,97254,Roth,9,77865.92,None,Premium,None,14,Single
+E00061,26,20 - 30,Female,WFH,HR,Recruiter,96843,None,0,0.0,Premium,Standard,Standard,21,Divorced
+E00062,67,61 - 70,Female,WFH,HR,Recruiter,66371,Roth,6,13330.47,Premium,Standard,None,12,Divorced
+E00063,67,61 - 70,Female,WFH,IT,Network Engineer,70932,Safe Harbor,7,44407.75,None,None,None,18,Divorced
+E00064,28,20 - 30,Male,Hybrid,HR,Recruiter,57400,None,0,0.0,Premium,Standard,None,14,Single
+E00065,38,31 - 40,Male,WFH,Marketing,Marketing Manager,65151,Safe Harbor,10,59117.97,Standard,None,None,19,Divorced
+E00066,52,51 - 60,Male,WFH,HR,Recruiter,62183,Simple,6,6556.3,None,None,None,19,Married
+E00067,55,51 - 60,Female,On-site,Marketing,Content Specialist,103351,401(k),6,38608.91,Premium,None,None,25,Divorced
+E00068,44,41 - 50,Male,WFH,Engineering,Lead Engineer,132018,None,0,0.0,Premium,Standard,None,20,Divorced
+E00069,48,41 - 50,Male,On-site,Engineering,DevOps Engineer,118497,401(k),10,44415.93,Standard,Standard,Standard,13,Married
+E00070,54,51 - 60,Female,On-site,IT,Systems Administrator,111135,Roth,7,23481.68,Premium,Standard,None,12,Single
+E00071,23,20 - 30,Female,Hybrid,Sales,Account Executive,73328,401(k),8,23046.09,Standard,Standard,Standard,15,Divorced
+E00072,27,20 - 30,Female,WFH,Marketing,Content Specialist,96214,Simple,5,33282.91,None,None,None,12,Married
+E00073,67,61 - 70,Female,WFH,HR,HR Manager,120091,Simple,5,25876.26,Premium,None,None,18,Divorced
+E00074,41,41 - 50,Male,On-site,IT,Network Engineer,56893,Roth,8,44408.83,Standard,Standard,None,24,Divorced
+E00075,27,20 - 30,Female,On-site,Marketing,Content Specialist,69738,Safe Harbor,5,28429.75,Standard,None,None,25,Single
+E00076,52,51 - 60,Male,Hybrid,Marketing,Content Specialist,89790,None,0,0.0,Premium,None,None,12,Single
+E00077,24,20 - 30,Male,On-site,Finance,Finance Manager,143179,Simple,7,55051.16,Standard,None,Standard,15,Divorced
+E00078,54,51 - 60,Female,WFH,Finance,Accountant,123744,401(k),6,70267.74,Premium,Standard,Standard,24,Divorced
+E00079,65,61 - 70,Male,WFH,Sales,Account Executive,86212,Safe Harbor,8,29873.69,None,Standard,None,20,Married
+E00080,56,51 - 60,Male,Hybrid,Sales,Sales Manager,68711,Safe Harbor,7,23344.98,Premium,Premium,None,16,Single
+E00081,50,41 - 50,Female,Hybrid,Marketing,Brand Strategist,116235,Safe Harbor,0,0.0,Premium,Standard,None,15,Married
+E00082,40,31 - 40,Female,On-site,HR,HR Coordinator,56102,None,0,0.0,Standard,Premium,None,12,Single
+E00083,22,20 - 30,Female,WFH,Marketing,Brand Strategist,76641,Safe Harbor,0,0.0,Standard,Standard,None,21,Married
+E00084,50,41 - 50,Female,Hybrid,Sales,Account Executive,73093,Simple,4,27395.7,Premium,None,None,25,Single
+E00085,43,41 - 50,Male,On-site,Marketing,Content Specialist,122991,401(k),9,109701.04,Standard,Standard,None,13,Divorced
+E00086,46,41 - 50,Male,WFH,Sales,Account Executive,60729,401(k),4,9480.91,Standard,None,Standard,19,Married
+E00087,52,51 - 60,Female,On-site,Finance,Finance Manager,128069,Safe Harbor,10,76526.09,Premium,None,Standard,21,Single
+E00088,45,41 - 50,Female,On-site,Finance,Finance Manager,100993,401(k),0,0.0,Premium,None,Standard,19,Married
+E00089,32,31 - 40,Male,On-site,Finance,Accountant,138891,None,0,0.0,None,Premium,Standard,21,Single
+E00090,26,20 - 30,Female,Hybrid,Sales,Account Executive,139912,Roth,6,68707.9,Premium,None,Standard,12,Married
+E00091,27,20 - 30,Female,On-site,Engineering,Software Engineer,56655,Safe Harbor,8,36994.06,None,Standard,None,23,Divorced
+E00092,42,41 - 50,Female,WFH,Sales,Sales Associate,63403,Roth,4,4681.27,None,Standard,Standard,18,Divorced
+E00093,41,41 - 50,Male,On-site,Marketing,Marketing Manager,143848,None,0,0.0,Premium,Premium,None,21,Divorced
+E00094,41,41 - 50,Female,WFH,Sales,Sales Manager,105609,None,0,0.0,Standard,Standard,Standard,21,Divorced
+E00095,41,41 - 50,Female,On-site,Marketing,Content Specialist,81024,Simple,6,6560.57,Premium,Premium,Standard,17,Single
+E00096,62,61 - 70,Male,Hybrid,IT,Network Engineer,118027,Roth,7,47094.34,Standard,Standard,Standard,16,Single
+E00097,63,61 - 70,Female,WFH,Finance,Accountant,98747,Roth,7,35359.03,None,Standard,None,17,Divorced
+E00098,64,61 - 70,Male,On-site,HR,HR Coordinator,108335,Roth,6,30564.67,Standard,Premium,None,14,Single
+E00099,59,51 - 60,Female,Hybrid,Sales,Account Executive,123523,Roth,10,120838.46,Premium,Standard,None,23,Married
+E00100,61,51 - 60,Female,On-site,IT,IT Support,133613,Roth,5,54491.9,Standard,Premium,Standard,14,Married
+E00101,47,41 - 50,Female,Hybrid,Marketing,Brand Strategist,75945,None,0,0.0,Standard,Premium,None,16,Married
+E00102,45,41 - 50,Male,WFH,Engineering,Lead Engineer,58308,401(k),8,39760.56,Premium,Premium,None,20,Single
+E00103,31,31 - 40,Female,On-site,IT,Network Engineer,124740,401(k),0,0.0,None,Standard,None,21,Divorced
+E00104,20,20 - 30,Male,Hybrid,HR,Recruiter,96175,None,0,0.0,None,Premium,None,25,Divorced
+E00105,67,61 - 70,Female,Hybrid,IT,Network Engineer,70056,Safe Harbor,10,65933.39,None,Standard,None,12,Married
+E00106,35,31 - 40,Female,On-site,Marketing,Brand Strategist,63500,401(k),9,39513.52,Standard,Premium,None,16,Single
+E00107,41,41 - 50,Male,On-site,Marketing,Content Specialist,109638,Simple,5,17704.23,Premium,None,None,14,Single
+E00108,56,51 - 60,Male,On-site,Finance,Financial Analyst,122789,None,0,0.0,None,Premium,None,20,Married
+E00109,48,41 - 50,Female,Hybrid,Sales,Sales Associate,111389,Roth,6,9450.4,Standard,None,Standard,12,Married
+E00110,49,41 - 50,Female,On-site,Engineering,Lead Engineer,145981,Simple,8,85637.37,Standard,Premium,None,23,Single
+E00111,35,31 - 40,Male,Hybrid,IT,Network Engineer,85247,Simple,7,31395.38,None,Standard,None,12,Married
+E00112,49,41 - 50,Female,WFH,IT,Network Engineer,76646,Roth,4,20058.72,Premium,Standard,Standard,16,Married
+E00113,55,51 - 60,Female,On-site,Sales,Sales Manager,118385,401(k),6,31051.3,None,Standard,Standard,21,Single
+E00114,38,31 - 40,Female,On-site,Finance,Finance Manager,59823,Safe Harbor,0,0.0,None,Premium,Standard,19,Married
+E00115,24,20 - 30,Female,Hybrid,Marketing,Content Specialist,66364,Roth,6,26051.83,Premium,Standard,None,18,Married
+E00116,21,20 - 30,Male,On-site,HR,HR Coordinator,144704,Roth,6,54454.84,None,None,Standard,22,Married
+E00117,39,31 - 40,Female,Hybrid,HR,HR Coordinator,68071,Roth,6,18352.74,None,Premium,Standard,23,Divorced
+E00118,52,51 - 60,Male,Hybrid,HR,HR Manager,54000,Safe Harbor,7,22341.88,Premium,None,Standard,16,Single
+E00119,31,31 - 40,Male,WFH,HR,HR Manager,147856,401(k),0,0.0,Standard,None,Standard,19,Single
+E00120,29,20 - 30,Female,Hybrid,HR,Recruiter,132986,401(k),6,27652.98,Premium,None,Standard,23,Single
+E00121,50,41 - 50,Female,On-site,Marketing,Brand Strategist,53373,401(k),4,2883.57,Premium,Premium,Standard,13,Married
+E00122,54,51 - 60,Male,Hybrid,Sales,Account Executive,77350,401(k),0,0.0,Premium,Standard,Standard,21,Single
+E00123,27,20 - 30,Male,WFH,Marketing,Content Specialist,138668,Roth,4,39573.2,None,Premium,Standard,25,Single
+E00124,53,51 - 60,Female,WFH,Finance,Financial Analyst,107458,Safe Harbor,0,0.0,None,None,None,18,Single
+E00125,23,20 - 30,Female,Hybrid,HR,Recruiter,132745,Roth,7,38423.31,Standard,Standard,None,22,Single
+E00126,48,41 - 50,Female,WFH,IT,Systems Administrator,57543,Simple,6,16439.51,Premium,Standard,Standard,24,Married
+E00127,55,51 - 60,Male,WFH,HR,HR Manager,94425,Roth,7,51262.13,Standard,Standard,None,14,Divorced
+E00128,68,61 - 70,Male,WFH,Finance,Accountant,133042,Simple,10,28593.49,Standard,Premium,None,12,Single
+E00129,58,51 - 60,Male,WFH,IT,IT Support,84911,Roth,10,74756.06,None,Standard,Standard,16,Divorced
+E00130,31,31 - 40,Male,On-site,IT,Network Engineer,86208,Safe Harbor,9,60190.91,Premium,Standard,None,20,Married
+E00131,54,51 - 60,Female,WFH,Sales,Sales Associate,71352,Simple,8,52075.41,Premium,Standard,Standard,25,Divorced
+E00132,39,31 - 40,Female,On-site,Engineering,Lead Engineer,96959,Safe Harbor,0,0.0,None,Premium,Standard,17,Married
+E00133,32,31 - 40,Male,Hybrid,HR,Recruiter,116234,401(k),5,26169.01,Standard,Standard,None,23,Married
+E00134,60,51 - 60,Male,WFH,Engineering,DevOps Engineer,74466,401(k),6,18739.28,Standard,Premium,Standard,23,Divorced
+E00135,33,31 - 40,Female,On-site,Sales,Account Executive,101934,Roth,10,54460.16,Premium,None,Standard,21,Divorced
+E00136,66,61 - 70,Male,WFH,IT,IT Support,58335,Roth,7,7453.67,Premium,Premium,None,23,Married
+E00137,44,41 - 50,Male,WFH,Finance,Financial Analyst,147203,401(k),5,21451.53,Premium,None,Standard,16,Divorced
+E00138,42,41 - 50,Male,Hybrid,HR,Recruiter,116703,None,0,0.0,None,Standard,None,20,Divorced
+E00139,58,51 - 60,Female,Hybrid,IT,Network Engineer,134076,Roth,7,51147.95,Standard,None,Standard,18,Single
+E00140,33,31 - 40,Male,WFH,IT,Systems Administrator,59348,Roth,5,26674.96,Premium,Premium,None,22,Single
+E00141,30,20 - 30,Female,Hybrid,Marketing,Content Specialist,56801,Safe Harbor,9,11690.97,None,Standard,None,21,Married
+E00142,63,61 - 70,Male,On-site,Engineering,Lead Engineer,122592,401(k),7,73339.79,Standard,Premium,Standard,25,Divorced
+E00143,32,31 - 40,Male,Hybrid,HR,HR Manager,100343,Simple,4,18342.16,Standard,Standard,Standard,22,Divorced
+E00144,21,20 - 30,Male,On-site,Finance,Finance Manager,133460,Safe Harbor,7,16475.34,None,Standard,Standard,14,Divorced
+E00145,27,20 - 30,Male,Hybrid,Marketing,Brand Strategist,63807,Safe Harbor,7,19365.71,None,Standard,Standard,15,Married
+E00146,36,31 - 40,Female,WFH,HR,Recruiter,107854,Simple,9,95845.63,Standard,Standard,None,15,Single
+E00147,55,51 - 60,Male,Hybrid,IT,Systems Administrator,85909,Simple,6,9028.21,Standard,None,Standard,24,Single
+E00148,63,61 - 70,Male,Hybrid,Sales,Account Executive,76790,401(k),5,12434.29,Premium,None,None,14,Divorced
+E00149,58,51 - 60,Female,On-site,Engineering,DevOps Engineer,65485,Simple,5,10749.82,Standard,Premium,None,13,Married
+E00150,47,41 - 50,Female,WFH,Sales,Account Executive,53709,Safe Harbor,4,16475.27,None,Standard,None,19,Single
+E00151,60,51 - 60,Male,WFH,Marketing,Marketing Manager,92918,401(k),0,0.0,Premium,None,None,14,Divorced
+E00152,32,31 - 40,Male,WFH,HR,HR Coordinator,130219,Safe Harbor,8,47941.49,Premium,Standard,None,23,Divorced
+E00153,68,61 - 70,Male,WFH,HR,Recruiter,73960,Simple,10,42566.43,Premium,Premium,Standard,16,Single
+E00154,25,20 - 30,Male,Hybrid,HR,Recruiter,117641,None,0,0.0,Premium,Standard,None,23,Married
+E00155,64,61 - 70,Female,WFH,Engineering,Lead Engineer,72700,Safe Harbor,7,19868.36,Standard,None,Standard,17,Single
+E00156,40,31 - 40,Female,Hybrid,Sales,Account Executive,111642,Simple,6,11147.47,None,None,None,14,Married
+E00157,38,31 - 40,Female,WFH,Finance,Finance Manager,63843,None,0,0.0,Standard,None,None,20,Married
+E00158,37,31 - 40,Male,On-site,Marketing,Brand Strategist,121726,Safe Harbor,0,0.0,Standard,None,None,12,Single
+E00159,33,31 - 40,Female,WFH,Finance,Financial Analyst,102638,401(k),0,0.0,Standard,None,None,16,Married
+E00160,22,20 - 30,Male,WFH,Marketing,Marketing Manager,69087,Simple,9,8761.03,Standard,None,Standard,23,Divorced
+E00161,29,20 - 30,Female,On-site,IT,Network Engineer,60975,Roth,10,54952.95,Standard,Standard,Standard,23,Single
+E00162,43,41 - 50,Male,Hybrid,Finance,Accountant,116203,401(k),7,28440.7,Standard,Premium,None,23,Single
+E00163,55,51 - 60,Male,On-site,Marketing,Brand Strategist,111529,Roth,10,46621.02,Standard,Premium,None,13,Single
+E00164,47,41 - 50,Male,Hybrid,Marketing,Brand Strategist,77355,None,0,0.0,Standard,None,Standard,16,Single
+E00165,60,51 - 60,Female,Hybrid,HR,HR Manager,54835,Simple,10,27851.62,None,Premium,Standard,12,Married
+E00166,28,20 - 30,Female,WFH,Engineering,DevOps Engineer,128752,None,0,0.0,Premium,Standard,None,16,Divorced
+E00167,39,31 - 40,Male,Hybrid,Marketing,Content Specialist,85547,Safe Harbor,10,21074.95,Standard,Standard,None,25,Divorced
+E00168,54,51 - 60,Female,WFH,Marketing,Content Specialist,95445,401(k),4,18133.6,None,Premium,None,16,Single
+E00169,66,61 - 70,Male,WFH,IT,Systems Administrator,125672,None,0,0.0,None,Standard,None,13,Divorced
+E00170,29,20 - 30,Male,On-site,Engineering,Software Engineer,134791,401(k),8,94834.36,Standard,Standard,Standard,24,Single
+E00171,24,20 - 30,Female,WFH,Marketing,Content Specialist,51015,Safe Harbor,0,0.0,None,Premium,Standard,17,Single
+E00172,20,20 - 30,Male,WFH,Finance,Finance Manager,58415,Simple,9,12374.5,None,Premium,None,16,Divorced
+E00173,45,41 - 50,Male,WFH,Marketing,Marketing Manager,54158,None,0,0.0,Premium,None,Standard,20,Divorced
+E00174,41,41 - 50,Female,On-site,Marketing,Marketing Manager,56970,Safe Harbor,5,17437.76,Standard,Premium,Standard,12,Single
+E00175,53,51 - 60,Male,WFH,Sales,Sales Manager,125880,401(k),5,13876.19,None,Standard,Standard,16,Divorced
+E00176,67,61 - 70,Female,WFH,Sales,Sales Associate,97926,401(k),8,56604.59,Standard,Standard,None,16,Single
+E00177,50,41 - 50,Male,On-site,HR,Recruiter,59860,401(k),8,44145.51,Standard,Premium,None,18,Married
+E00178,56,51 - 60,Male,WFH,Sales,Sales Manager,119172,401(k),7,65182.46,Premium,None,Standard,14,Married
+E00179,36,31 - 40,Female,WFH,Sales,Account Executive,106397,None,0,0.0,Premium,Standard,Standard,20,Divorced
+E00180,65,61 - 70,Male,On-site,Sales,Sales Associate,84816,Safe Harbor,5,14726.54,Premium,None,Standard,15,Single
+E00181,20,20 - 30,Female,Hybrid,Finance,Financial Analyst,87744,401(k),10,57587.74,Standard,Premium,None,23,Married
+E00182,50,41 - 50,Male,Hybrid,Finance,Financial Analyst,57239,None,0,0.0,Standard,Standard,None,18,Single
+E00183,45,41 - 50,Female,Hybrid,IT,Network Engineer,108017,Safe Harbor,8,68706.29,Premium,Premium,Standard,22,Single
+E00184,69,61 - 70,Female,WFH,Engineering,Lead Engineer,87131,None,0,0.0,None,Standard,None,12,Married
+E00185,63,61 - 70,Male,WFH,Engineering,Lead Engineer,74285,Simple,5,17201.98,None,Standard,Standard,18,Single
+E00186,34,31 - 40,Male,WFH,HR,Recruiter,51252,Roth,7,24231.83,Standard,None,Standard,22,Divorced
+E00187,58,51 - 60,Male,Hybrid,Marketing,Brand Strategist,131317,None,0,0.0,None,None,Standard,23,Divorced
+E00188,53,51 - 60,Female,On-site,HR,HR Coordinator,56949,None,0,0.0,Premium,Premium,Standard,13,Single
+E00189,53,51 - 60,Male,On-site,HR,Recruiter,123553,None,0,0.0,None,None,Standard,25,Married
+E00190,34,31 - 40,Male,WFH,Engineering,DevOps Engineer,73386,401(k),5,33527.97,Standard,Premium,None,15,Married
+E00191,57,51 - 60,Female,WFH,IT,IT Support,106800,Safe Harbor,10,98194.5,None,Standard,None,25,Divorced
+E00192,61,51 - 60,Male,On-site,HR,Recruiter,93088,Simple,7,53225.6,Premium,Premium,None,21,Single
+E00193,36,31 - 40,Male,WFH,Marketing,Content Specialist,137369,401(k),0,0.0,Standard,Premium,Standard,23,Single
+E00194,39,31 - 40,Female,Hybrid,Finance,Accountant,142705,Safe Harbor,8,62031.73,Standard,Premium,Standard,24,Married
+E00195,62,61 - 70,Male,WFH,Engineering,Lead Engineer,62015,None,0,0.0,Premium,None,None,22,Married
+E00196,66,61 - 70,Male,On-site,Marketing,Marketing Manager,67144,None,0,0.0,Premium,Standard,None,18,Married
+E00197,35,31 - 40,Female,WFH,Engineering,Lead Engineer,121774,Roth,5,13696.19,None,None,None,19,Single
+E00198,23,20 - 30,Male,WFH,IT,Systems Administrator,91240,None,0,0.0,Standard,Premium,Standard,14,Married
+E00199,51,51 - 60,Female,Hybrid,Sales,Account Executive,83434,Safe Harbor,7,56990.39,None,Premium,None,24,Single
+E00200,38,31 - 40,Female,WFH,Marketing,Brand Strategist,107108,401(k),7,30783.06,None,None,None,21,Divorced
+E00201,41,41 - 50,Male,On-site,Engineering,DevOps Engineer,129252,401(k),8,21566.71,Premium,None,Standard,20,Divorced
+E00202,31,31 - 40,Female,Hybrid,Sales,Sales Manager,68777,Roth,8,23540.6,Premium,None,None,25,Married
+E00203,45,41 - 50,Female,Hybrid,HR,HR Manager,131818,Safe Harbor,0,0.0,Standard,Standard,Standard,21,Married
+E00204,66,61 - 70,Male,WFH,Sales,Sales Associate,55240,Roth,8,7670.99,Standard,Standard,None,25,Married
+E00205,62,61 - 70,Female,On-site,Engineering,DevOps Engineer,69262,Simple,10,10733.54,Premium,Premium,None,21,Divorced
+E00206,55,51 - 60,Male,Hybrid,Marketing,Brand Strategist,129104,Safe Harbor,10,99853.39,Premium,Premium,Standard,24,Married
+E00207,34,31 - 40,Male,Hybrid,Engineering,Lead Engineer,50302,Safe Harbor,9,42176.91,Standard,Standard,None,25,Divorced
+E00208,45,41 - 50,Male,Hybrid,Finance,Accountant,78699,Roth,9,40949.08,None,Standard,Standard,13,Single
+E00209,64,61 - 70,Female,WFH,Sales,Sales Manager,54621,Roth,5,8935.81,None,Standard,None,18,Divorced
+E00210,22,20 - 30,Female,Hybrid,Sales,Sales Manager,68030,Safe Harbor,9,34318.33,Premium,None,Standard,23,Married
+E00211,64,61 - 70,Female,Hybrid,Marketing,Content Specialist,138869,Simple,5,31762.63,Standard,Standard,Standard,20,Single
+E00212,56,51 - 60,Male,WFH,HR,HR Manager,60267,Safe Harbor,4,14646.53,Premium,Premium,Standard,12,Single
+E00213,58,51 - 60,Female,WFH,Sales,Account Executive,56229,Safe Harbor,4,13085.66,Standard,Standard,None,20,Divorced
+E00214,36,31 - 40,Female,Hybrid,Engineering,Lead Engineer,53596,Simple,6,16933.32,Standard,None,None,21,Divorced
+E00215,22,20 - 30,Female,WFH,IT,Systems Administrator,132152,None,0,0.0,None,Premium,Standard,24,Married
+E00216,37,31 - 40,Female,On-site,HR,HR Coordinator,76734,None,0,0.0,Premium,Standard,Standard,15,Married
+E00217,66,61 - 70,Male,On-site,IT,Network Engineer,76069,Safe Harbor,4,18316.44,None,Premium,Standard,19,Married
+E00218,68,61 - 70,Male,Hybrid,Finance,Accountant,73275,Simple,5,16153.3,Premium,Standard,None,16,Single
+E00219,25,20 - 30,Female,WFH,HR,HR Manager,134659,Simple,4,34838.96,None,None,Standard,22,Single
+E00220,64,61 - 70,Female,On-site,Finance,Financial Analyst,53812,None,0,0.0,Standard,Premium,None,20,Divorced
+E00221,52,51 - 60,Female,Hybrid,IT,IT Support,77285,Simple,7,12852.59,Premium,Premium,Standard,18,Divorced
+E00222,67,61 - 70,Female,On-site,IT,IT Support,77139,401(k),8,16533.07,None,Standard,Standard,25,Divorced
+E00223,49,41 - 50,Male,WFH,IT,Systems Administrator,63918,401(k),10,57979.31,Premium,Standard,None,18,Married
+E00224,22,20 - 30,Male,On-site,Finance,Financial Analyst,74818,Safe Harbor,9,31604.73,Standard,None,None,15,Single
+E00225,43,41 - 50,Male,WFH,Sales,Sales Associate,88110,401(k),8,32288.44,Premium,None,Standard,23,Divorced
+E00226,30,20 - 30,Female,WFH,Sales,Sales Associate,137886,Simple,8,107833.52,Premium,Premium,None,25,Divorced
+E00227,57,51 - 60,Male,On-site,Sales,Account Executive,63234,Simple,8,47371.8,None,None,Standard,22,Divorced
+E00228,27,20 - 30,Male,On-site,Marketing,Brand Strategist,96514,Simple,7,53544.09,Standard,None,None,17,Divorced
+E00229,45,41 - 50,Male,On-site,Sales,Sales Manager,92101,Simple,6,26684.95,None,Premium,None,12,Married
+E00230,39,31 - 40,Female,On-site,Sales,Sales Manager,86976,None,0,0.0,Premium,Standard,Standard,23,Divorced
+E00231,66,61 - 70,Male,WFH,Finance,Accountant,117584,401(k),4,37203.65,Premium,None,Standard,17,Divorced
+E00232,56,51 - 60,Male,Hybrid,Marketing,Content Specialist,51917,Simple,5,24370.17,None,Standard,None,24,Single
+E00233,62,61 - 70,Male,Hybrid,Marketing,Brand Strategist,97362,Roth,0,0.0,Premium,Premium,None,17,Married
+E00234,69,61 - 70,Female,Hybrid,Marketing,Content Specialist,109383,Roth,4,25978.15,None,None,None,21,Single
+E00235,63,61 - 70,Male,WFH,Sales,Account Executive,89809,Safe Harbor,7,45019.46,None,Premium,None,15,Single
+E00236,20,20 - 30,Female,Hybrid,Marketing,Content Specialist,51342,Simple,7,3681.63,Standard,None,Standard,20,Divorced
+E00237,30,20 - 30,Male,Hybrid,Engineering,Lead Engineer,143070,401(k),10,92350.5,None,None,None,14,Married
+E00238,49,41 - 50,Female,On-site,Sales,Sales Manager,92078,401(k),0,0.0,None,Standard,None,16,Divorced
+E00239,63,61 - 70,Male,Hybrid,Finance,Financial Analyst,92929,Safe Harbor,8,69856.16,Standard,Standard,None,22,Divorced
+E00240,28,20 - 30,Female,WFH,Engineering,DevOps Engineer,115441,401(k),6,30566.86,Standard,Standard,None,12,Single
+E00241,59,51 - 60,Female,Hybrid,Finance,Accountant,86159,401(k),8,9876.25,None,Premium,None,24,Single
+E00242,27,20 - 30,Female,On-site,Sales,Sales Manager,91832,Safe Harbor,7,18093.22,None,Standard,None,25,Single
+E00243,54,51 - 60,Male,Hybrid,Marketing,Brand Strategist,136740,Safe Harbor,7,79744.32,Premium,None,Standard,22,Divorced
+E00244,33,31 - 40,Female,WFH,Finance,Accountant,70611,None,0,0.0,Standard,Premium,Standard,20,Divorced
+E00245,64,61 - 70,Male,WFH,Marketing,Content Specialist,132985,401(k),0,0.0,Standard,None,None,13,Single
+E00246,59,51 - 60,Male,Hybrid,Finance,Financial Analyst,109207,Simple,9,72968.16,Standard,Premium,None,14,Single
+E00247,57,51 - 60,Female,Hybrid,HR,HR Coordinator,121520,None,0,0.0,Premium,Standard,None,18,Divorced
+E00248,34,31 - 40,Male,Hybrid,Finance,Finance Manager,59184,401(k),0,0.0,Standard,None,None,12,Single
+E00249,52,51 - 60,Male,On-site,IT,Systems Administrator,61246,Safe Harbor,9,31897.2,Standard,None,None,16,Divorced
+E00250,59,51 - 60,Male,WFH,IT,Systems Administrator,142263,401(k),5,41865.47,None,None,None,17,Married
+E00251,25,20 - 30,Female,WFH,Sales,Sales Associate,142738,Simple,9,97310.89,None,Premium,Standard,21,Single
+E00252,34,31 - 40,Female,WFH,Sales,Sales Manager,121324,Safe Harbor,0,0.0,None,Premium,Standard,15,Single
+E00253,49,41 - 50,Male,WFH,HR,Recruiter,59446,401(k),5,24067.83,None,Standard,None,17,Divorced
+E00254,52,51 - 60,Male,On-site,Marketing,Content Specialist,94028,Roth,7,52702.72,Premium,Premium,None,12,Single
+E00255,23,20 - 30,Male,Hybrid,HR,Recruiter,69029,None,0,0.0,Premium,None,Standard,13,Divorced
+E00256,29,20 - 30,Male,WFH,IT,Network Engineer,93872,Safe Harbor,8,63016.77,None,None,Standard,15,Married
+E00257,64,61 - 70,Female,WFH,Marketing,Marketing Manager,121895,Simple,6,33464.46,Premium,Standard,None,24,Married
+E00258,27,20 - 30,Female,WFH,Sales,Account Executive,114772,None,0,0.0,None,Standard,None,24,Married
+E00259,66,61 - 70,Male,Hybrid,HR,Recruiter,134291,Simple,6,64032.13,Premium,None,None,22,Married
+E00260,50,41 - 50,Male,WFH,HR,Recruiter,89666,None,0,0.0,Standard,None,None,15,Divorced
+E00261,55,51 - 60,Male,On-site,HR,HR Coordinator,149097,Simple,5,47645.92,Standard,Standard,Standard,15,Single
+E00262,30,20 - 30,Female,Hybrid,Finance,Financial Analyst,64153,Simple,10,40099.0,Premium,Standard,None,19,Married
+E00263,42,41 - 50,Female,On-site,Marketing,Content Specialist,50814,Simple,4,19361.25,None,None,None,23,Single
+E00264,45,41 - 50,Female,WFH,HR,HR Coordinator,125916,Safe Harbor,10,69921.13,Standard,None,None,20,Married
+E00265,52,51 - 60,Female,On-site,HR,Recruiter,106942,None,0,0.0,Standard,Premium,Standard,19,Divorced
+E00266,62,61 - 70,Male,Hybrid,Finance,Financial Analyst,135451,Roth,6,49462.9,Standard,Premium,Standard,15,Divorced
+E00267,24,20 - 30,Female,Hybrid,IT,IT Support,110279,Roth,7,56855.48,Standard,Premium,None,21,Single
+E00268,68,61 - 70,Female,On-site,Engineering,Lead Engineer,115310,Roth,4,7473.44,Premium,None,None,14,Single
+E00269,48,41 - 50,Female,WFH,Engineering,Lead Engineer,94327,None,0,0.0,Premium,Premium,None,20,Single
+E00270,41,41 - 50,Female,On-site,Marketing,Marketing Manager,97882,Simple,9,18546.36,Premium,None,None,16,Divorced
+E00271,40,31 - 40,Female,On-site,Sales,Account Executive,51645,Safe Harbor,6,6575.33,Standard,Standard,Standard,20,Married
+E00272,20,20 - 30,Female,On-site,IT,Systems Administrator,103173,Simple,9,28289.05,Premium,Premium,Standard,16,Married
+E00273,66,61 - 70,Male,On-site,Finance,Finance Manager,106264,Roth,7,29878.7,Premium,None,Standard,15,Divorced
+E00274,45,41 - 50,Male,Hybrid,Sales,Sales Associate,63224,401(k),5,14489.42,Premium,Premium,None,20,Divorced
+E00275,45,41 - 50,Female,Hybrid,Sales,Sales Manager,123509,Simple,4,25646.9,Standard,None,None,22,Divorced
+E00276,53,51 - 60,Male,On-site,IT,Systems Administrator,86368,Safe Harbor,10,26095.6,Standard,None,None,23,Married
+E00277,43,41 - 50,Female,On-site,Finance,Accountant,117526,Roth,6,33638.26,None,Standard,None,19,Single
+E00278,52,51 - 60,Male,Hybrid,Sales,Sales Associate,87148,401(k),9,27438.17,Premium,Standard,Standard,21,Married
+E00279,47,41 - 50,Male,WFH,IT,Network Engineer,66241,Simple,7,26136.01,Standard,Standard,Standard,12,Divorced
+E00280,39,31 - 40,Male,WFH,HR,HR Coordinator,69816,401(k),0,0.0,Standard,Premium,Standard,15,Divorced
+E00281,41,41 - 50,Female,WFH,IT,Systems Administrator,146731,None,0,0.0,Premium,None,Standard,24,Divorced
+E00282,59,51 - 60,Female,Hybrid,HR,HR Coordinator,70806,None,0,0.0,None,None,Standard,12,Married
+E00283,51,51 - 60,Female,WFH,Finance,Accountant,91949,401(k),9,40062.09,None,Standard,None,19,Divorced
+E00284,38,31 - 40,Male,On-site,Sales,Sales Associate,143501,Safe Harbor,10,74822.66,Premium,Premium,Standard,12,Single
+E00285,64,61 - 70,Female,WFH,Marketing,Content Specialist,92460,Safe Harbor,8,63087.92,None,None,None,14,Married
+E00286,37,31 - 40,Male,On-site,Sales,Sales Manager,83536,Safe Harbor,8,49630.63,None,None,None,13,Single
+E00287,21,20 - 30,Female,Hybrid,IT,Network Engineer,56645,Simple,6,18114.36,Standard,Premium,None,25,Single
+E00288,57,51 - 60,Female,WFH,HR,HR Manager,75522,None,0,0.0,Premium,Standard,None,15,Single
+E00289,20,20 - 30,Male,WFH,Finance,Accountant,102487,401(k),7,12049.1,None,Standard,Standard,14,Single
+E00290,51,51 - 60,Male,WFH,Finance,Financial Analyst,149785,Simple,5,50896.91,Standard,None,None,23,Single
+E00291,52,51 - 60,Female,On-site,Finance,Accountant,131974,401(k),6,67766.8,Standard,Standard,None,18,Single
+E00292,48,41 - 50,Female,On-site,Engineering,Software Engineer,126534,None,0,0.0,Standard,None,Standard,14,Married
+E00293,43,41 - 50,Male,On-site,Engineering,DevOps Engineer,80678,Roth,5,22386.41,Standard,Premium,None,19,Single
+E00294,66,61 - 70,Female,On-site,IT,Systems Administrator,118836,None,0,0.0,Standard,Premium,None,14,Single
+E00295,52,51 - 60,Male,WFH,Engineering,Software Engineer,135595,401(k),9,91371.86,None,Standard,Standard,14,Divorced
+E00296,51,51 - 60,Male,WFH,HR,Recruiter,137127,401(k),8,70524.71,Standard,None,Standard,25,Divorced
+E00297,62,61 - 70,Male,On-site,IT,Systems Administrator,62175,Safe Harbor,6,35438.58,None,Premium,None,17,Divorced
+E00298,40,31 - 40,Male,WFH,IT,Network Engineer,136925,Simple,9,48256.74,Standard,None,Standard,13,Married
+E00299,26,20 - 30,Male,WFH,Sales,Account Executive,54425,Safe Harbor,9,37340.05,None,Premium,Standard,16,Married
+E00300,38,31 - 40,Female,Hybrid,Sales,Sales Manager,70079,Simple,7,43600.33,Standard,Premium,Standard,24,Single
+E00301,37,31 - 40,Female,WFH,IT,IT Support,58705,Roth,0,0.0,None,Premium,None,16,Married
+E00302,39,31 - 40,Male,On-site,Engineering,DevOps Engineer,135514,Safe Harbor,4,45673.45,Standard,Standard,None,14,Single
+E00303,42,41 - 50,Female,On-site,Marketing,Brand Strategist,126918,None,0,0.0,Standard,Standard,Standard,23,Married
+E00304,39,31 - 40,Male,Hybrid,Finance,Financial Analyst,64596,Simple,7,21182.92,Standard,Premium,None,25,Single
+E00305,28,20 - 30,Female,Hybrid,Marketing,Brand Strategist,112516,None,0,0.0,None,Premium,None,23,Married
+E00306,54,51 - 60,Female,WFH,Finance,Accountant,67771,Roth,10,13744.92,None,None,Standard,25,Divorced
+E00307,65,61 - 70,Female,Hybrid,IT,Systems Administrator,136143,Roth,10,65715.16,None,None,None,14,Divorced
+E00308,36,31 - 40,Female,Hybrid,Finance,Accountant,52573,None,0,0.0,None,None,None,20,Single
+E00309,59,51 - 60,Female,Hybrid,Sales,Account Executive,149608,Simple,9,39885.3,None,Standard,None,17,Divorced
+E00310,62,61 - 70,Female,WFH,HR,Recruiter,101693,Simple,6,13365.42,Premium,Premium,None,24,Single
+E00311,64,61 - 70,Female,On-site,Sales,Sales Manager,124532,Safe Harbor,5,52323.71,Standard,Standard,Standard,16,Married
+E00312,61,51 - 60,Male,WFH,IT,Network Engineer,88243,None,0,0.0,Standard,Standard,Standard,20,Single
+E00313,57,51 - 60,Male,On-site,Sales,Sales Manager,76657,401(k),0,0.0,None,Premium,None,16,Single
+E00314,44,41 - 50,Male,Hybrid,HR,Recruiter,128411,Roth,9,22642.55,None,Premium,None,17,Divorced
+E00315,40,31 - 40,Female,On-site,HR,HR Coordinator,101226,None,0,0.0,Premium,None,None,20,Divorced
+E00316,50,41 - 50,Male,On-site,Finance,Financial Analyst,132565,401(k),5,42266.48,Premium,Premium,Standard,23,Divorced
+E00317,64,61 - 70,Male,Hybrid,HR,Recruiter,97924,Roth,9,54285.98,Standard,Premium,None,12,Divorced
+E00318,45,41 - 50,Female,WFH,Engineering,Lead Engineer,139563,Safe Harbor,8,63308.67,None,Standard,None,13,Married
+E00319,62,61 - 70,Female,WFH,Sales,Account Executive,111120,401(k),5,10073.21,None,Premium,Standard,14,Single
+E00320,45,41 - 50,Female,WFH,Sales,Sales Manager,103276,None,0,0.0,None,Premium,None,16,Single
+E00321,30,20 - 30,Male,On-site,Sales,Sales Associate,139599,None,0,0.0,Premium,Premium,Standard,15,Divorced
+E00322,68,61 - 70,Male,Hybrid,Finance,Financial Analyst,74762,Simple,9,43692.99,Premium,None,None,17,Single
+E00323,53,51 - 60,Female,WFH,Engineering,DevOps Engineer,103302,Safe Harbor,9,89130.04,Standard,Standard,None,17,Married
+E00324,24,20 - 30,Male,On-site,Finance,Accountant,139399,401(k),0,0.0,Standard,Premium,None,21,Single
+E00325,55,51 - 60,Female,WFH,Engineering,DevOps Engineer,124478,401(k),6,18358.95,Standard,None,Standard,15,Married
+E00326,62,61 - 70,Male,On-site,Engineering,Lead Engineer,62112,None,0,0.0,Premium,Standard,None,25,Single
+E00327,64,61 - 70,Female,Hybrid,Marketing,Content Specialist,88890,Safe Harbor,4,23502.49,Standard,None,None,13,Divorced
+E00328,28,20 - 30,Male,On-site,Engineering,DevOps Engineer,65048,Safe Harbor,10,49135.3,None,Premium,Standard,20,Married
+E00329,62,61 - 70,Female,On-site,IT,IT Support,133559,Roth,4,27444.42,None,None,Standard,14,Single
+E00330,22,20 - 30,Female,On-site,Finance,Financial Analyst,78145,None,0,0.0,Standard,None,Standard,16,Single
+E00331,63,61 - 70,Female,On-site,Finance,Finance Manager,125186,Safe Harbor,8,10488.43,Standard,None,None,23,Single
+E00332,38,31 - 40,Female,On-site,IT,Network Engineer,141748,Safe Harbor,6,70308.76,Standard,None,None,12,Married
+E00333,36,31 - 40,Female,Hybrid,Finance,Accountant,99481,401(k),0,0.0,None,Premium,Standard,18,Divorced
+E00334,68,61 - 70,Female,On-site,Sales,Account Executive,107134,Safe Harbor,6,37778.29,Standard,Standard,Standard,19,Single
+E00335,38,31 - 40,Male,On-site,HR,Recruiter,121431,Safe Harbor,9,90261.43,None,Standard,None,18,Divorced
+E00336,56,51 - 60,Female,On-site,Finance,Accountant,117957,Simple,10,101947.41,Standard,None,None,20,Divorced
+E00337,37,31 - 40,Female,WFH,Marketing,Marketing Manager,112552,Roth,6,20197.81,None,Premium,Standard,21,Single
+E00338,60,51 - 60,Male,On-site,IT,Systems Administrator,77935,Safe Harbor,4,19622.08,Premium,Premium,Standard,12,Married
+E00339,42,41 - 50,Female,WFH,Finance,Finance Manager,137833,Safe Harbor,7,50739.41,None,Premium,Standard,18,Married
+E00340,33,31 - 40,Male,WFH,IT,Network Engineer,87198,None,0,0.0,None,Premium,None,16,Married
+E00341,26,20 - 30,Male,Hybrid,Engineering,DevOps Engineer,119768,None,0,0.0,Premium,Premium,Standard,14,Single
+E00342,67,61 - 70,Female,On-site,Engineering,DevOps Engineer,123543,Roth,4,23699.82,Premium,Premium,Standard,24,Married
+E00343,37,31 - 40,Female,On-site,Marketing,Brand Strategist,86062,Simple,8,10285.74,Premium,Standard,None,14,Divorced
+E00344,37,31 - 40,Female,On-site,Finance,Financial Analyst,67850,401(k),4,18457.7,None,Premium,None,25,Married
+E00345,50,41 - 50,Male,WFH,HR,Recruiter,102375,None,0,0.0,None,Premium,None,14,Single
+E00346,63,61 - 70,Male,Hybrid,IT,Network Engineer,146443,Safe Harbor,7,17350.64,Standard,Premium,None,16,Single
+E00347,62,61 - 70,Female,On-site,Sales,Sales Associate,52983,Roth,4,15943.43,Premium,Standard,None,23,Single
+E00348,58,51 - 60,Male,On-site,Engineering,Software Engineer,106846,Roth,10,62562.84,Standard,None,Standard,24,Divorced
+E00349,41,41 - 50,Female,On-site,Finance,Finance Manager,57564,None,0,0.0,None,Standard,None,13,Divorced
+E00350,52,51 - 60,Male,WFH,Marketing,Content Specialist,144223,None,0,0.0,Premium,Standard,None,24,Married
+E00351,61,51 - 60,Female,On-site,HR,HR Coordinator,124859,Safe Harbor,8,47521.88,Standard,None,Standard,14,Married
+E00352,61,51 - 60,Female,WFH,Finance,Finance Manager,116081,Safe Harbor,8,9306.33,None,Standard,None,24,Married
+E00353,32,31 - 40,Female,WFH,Marketing,Marketing Manager,145505,None,0,0.0,Standard,Standard,None,14,Divorced
+E00354,58,51 - 60,Male,Hybrid,Sales,Account Executive,66371,Safe Harbor,7,36724.97,None,Standard,Standard,24,Married
+E00355,63,61 - 70,Male,Hybrid,Engineering,DevOps Engineer,62984,Simple,10,55823.31,Premium,Standard,Standard,20,Single
+E00356,29,20 - 30,Male,On-site,Sales,Account Executive,100072,401(k),9,43160.97,Premium,Premium,None,16,Single
+E00357,20,20 - 30,Female,Hybrid,HR,HR Coordinator,82733,Safe Harbor,0,0.0,None,Premium,Standard,14,Divorced
+E00358,64,61 - 70,Male,Hybrid,IT,IT Support,83933,401(k),10,30091.25,None,Standard,Standard,15,Married
+E00359,37,31 - 40,Female,Hybrid,Marketing,Marketing Manager,90600,Roth,10,10517.44,Standard,Standard,Standard,25,Divorced
+E00360,34,31 - 40,Female,On-site,Finance,Finance Manager,85400,Roth,9,34271.41,Standard,None,None,19,Divorced
+E00361,23,20 - 30,Female,On-site,HR,HR Manager,147419,Roth,5,70390.0,Standard,Standard,Standard,24,Married
+E00362,56,51 - 60,Male,WFH,Sales,Account Executive,147659,Safe Harbor,8,116248.68,Standard,Standard,Standard,25,Married
+E00363,43,41 - 50,Female,On-site,Finance,Accountant,79757,Simple,7,55286.48,Premium,Standard,Standard,18,Divorced
+E00364,23,20 - 30,Female,On-site,Sales,Sales Associate,104842,Safe Harbor,10,99438.3,Premium,Premium,None,17,Single
+E00365,64,61 - 70,Male,Hybrid,Marketing,Content Specialist,84157,Safe Harbor,4,4788.56,None,Standard,Standard,20,Divorced
+E00366,45,41 - 50,Male,WFH,Finance,Finance Manager,132856,Roth,0,0.0,Premium,Standard,None,21,Divorced
+E00367,22,20 - 30,Female,On-site,HR,Recruiter,64199,Roth,8,42150.12,Standard,None,Standard,17,Divorced
+E00368,66,61 - 70,Male,Hybrid,Sales,Sales Associate,116262,Safe Harbor,0,0.0,None,Premium,Standard,20,Married
+E00369,54,51 - 60,Male,On-site,IT,Systems Administrator,112483,401(k),4,25759.88,Premium,Premium,Standard,22,Single
+E00370,61,51 - 60,Female,On-site,Finance,Finance Manager,134386,Simple,4,29138.52,Standard,Standard,Standard,12,Married
+E00371,43,41 - 50,Male,WFH,Sales,Account Executive,74578,Safe Harbor,10,38560.01,Premium,None,None,24,Single
+E00372,66,61 - 70,Female,Hybrid,Sales,Sales Manager,110504,Simple,0,0.0,Premium,Standard,None,15,Divorced
+E00373,33,31 - 40,Female,On-site,Marketing,Content Specialist,133300,Safe Harbor,4,27283.25,None,Standard,Standard,19,Single
+E00374,22,20 - 30,Female,WFH,Engineering,Lead Engineer,93642,401(k),6,29722.48,Standard,None,None,14,Single
+E00375,44,41 - 50,Female,WFH,Sales,Sales Associate,138801,Roth,6,10983.06,Standard,Standard,None,19,Single
+E00376,44,41 - 50,Female,Hybrid,Marketing,Brand Strategist,114772,Roth,5,10231.24,None,Premium,Standard,19,Single
+E00377,34,31 - 40,Female,WFH,IT,Systems Administrator,119669,401(k),10,86896.79,Standard,Standard,None,21,Divorced
+E00378,37,31 - 40,Male,On-site,Engineering,Software Engineer,144661,Roth,7,30192.98,Premium,Standard,None,24,Divorced
+E00379,47,41 - 50,Male,Hybrid,Engineering,DevOps Engineer,135956,None,0,0.0,Premium,Standard,Standard,24,Divorced
+E00380,36,31 - 40,Female,WFH,Marketing,Marketing Manager,59516,Roth,10,33595.06,Standard,Premium,Standard,14,Married
+E00381,22,20 - 30,Male,Hybrid,IT,Network Engineer,51591,Safe Harbor,10,36640.68,Premium,None,None,22,Married
+E00382,32,31 - 40,Female,Hybrid,Engineering,Software Engineer,149616,None,0,0.0,None,Premium,None,17,Single
+E00383,43,41 - 50,Male,On-site,Engineering,Lead Engineer,57314,401(k),10,39696.06,None,None,None,12,Married
+E00384,67,61 - 70,Female,On-site,IT,Systems Administrator,133624,Roth,7,79816.07,None,None,None,20,Married
+E00385,61,51 - 60,Male,Hybrid,IT,Network Engineer,136206,None,0,0.0,Premium,Standard,None,22,Divorced
+E00386,57,51 - 60,Female,Hybrid,IT,IT Support,103947,Simple,9,83586.49,Standard,None,None,24,Married
+E00387,50,41 - 50,Male,On-site,Finance,Financial Analyst,97638,Roth,4,8435.25,Premium,Standard,None,22,Single
+E00388,49,41 - 50,Male,On-site,Finance,Accountant,92534,None,0,0.0,Standard,None,Standard,13,Single
+E00389,55,51 - 60,Male,WFH,Finance,Financial Analyst,98845,Safe Harbor,7,38520.36,None,Premium,None,18,Divorced
+E00390,21,20 - 30,Female,On-site,Engineering,Lead Engineer,137263,Simple,7,62957.59,None,Standard,Standard,12,Single
+E00391,60,51 - 60,Female,Hybrid,IT,IT Support,84832,401(k),10,28318.89,None,Premium,None,23,Single
+E00392,43,41 - 50,Female,Hybrid,Sales,Sales Manager,113852,None,0,0.0,Standard,None,Standard,14,Married
+E00393,67,61 - 70,Female,On-site,Sales,Sales Associate,120981,Simple,5,47480.51,None,Premium,None,21,Single
+E00394,60,51 - 60,Female,Hybrid,Finance,Accountant,92207,Safe Harbor,4,15036.56,Premium,None,Standard,23,Divorced
+E00395,34,31 - 40,Female,Hybrid,Marketing,Marketing Manager,141357,Simple,7,19023.98,Standard,Standard,Standard,15,Single
+E00396,39,31 - 40,Female,Hybrid,IT,IT Support,133807,401(k),6,12930.04,None,Standard,None,22,Divorced
+E00397,36,31 - 40,Male,WFH,Finance,Financial Analyst,130395,Simple,8,76955.46,Premium,Standard,None,17,Single
+E00398,20,20 - 30,Male,WFH,HR,HR Coordinator,70953,Safe Harbor,10,10016.28,Premium,None,Standard,13,Married
+E00399,33,31 - 40,Male,WFH,Sales,Sales Manager,87567,Roth,9,76602.83,None,Premium,Standard,15,Married
+E00400,54,51 - 60,Female,On-site,Sales,Sales Associate,71427,Safe Harbor,7,22262.06,None,Standard,None,24,Married
+E00401,30,20 - 30,Female,On-site,IT,IT Support,94064,Safe Harbor,8,32707.95,Standard,None,None,14,Single
+E00402,30,20 - 30,Male,WFH,IT,Systems Administrator,79241,Roth,9,35752.05,None,Premium,None,25,Divorced
+E00403,53,51 - 60,Female,WFH,Finance,Finance Manager,64288,401(k),5,16272.85,Standard,Premium,None,18,Single
+E00404,34,31 - 40,Female,On-site,Finance,Financial Analyst,91846,Simple,7,46567.74,Standard,None,None,15,Married
+E00405,51,51 - 60,Female,On-site,Engineering,Lead Engineer,110545,Simple,9,70881.94,Standard,Standard,Standard,17,Married
+E00406,30,20 - 30,Male,Hybrid,Sales,Sales Manager,72042,Safe Harbor,5,34428.05,None,Premium,Standard,23,Single
+E00407,47,41 - 50,Male,On-site,Sales,Account Executive,83756,Safe Harbor,7,53855.15,Standard,Premium,Standard,16,Single
+E00408,39,31 - 40,Female,WFH,Engineering,Lead Engineer,98901,None,0,0.0,None,Standard,Standard,14,Married
+E00409,24,20 - 30,Female,On-site,IT,Systems Administrator,55626,None,0,0.0,Premium,Premium,None,12,Married
+E00410,57,51 - 60,Male,WFH,IT,Systems Administrator,69982,Roth,4,8168.14,None,Premium,Standard,12,Single
+E00411,44,41 - 50,Female,WFH,HR,Recruiter,132711,Safe Harbor,6,48291.56,Premium,None,Standard,23,Divorced
+E00412,35,31 - 40,Male,WFH,Engineering,DevOps Engineer,135530,Simple,10,32977.32,None,Premium,Standard,20,Single
+E00413,36,31 - 40,Male,On-site,Sales,Account Executive,86444,401(k),7,14419.25,None,Premium,None,22,Divorced
+E00414,65,61 - 70,Male,Hybrid,IT,Network Engineer,135553,None,0,0.0,Premium,Standard,None,15,Divorced
+E00415,26,20 - 30,Female,WFH,Engineering,Software Engineer,111788,Safe Harbor,10,40774.8,Premium,Premium,None,19,Single
+E00416,22,20 - 30,Female,Hybrid,IT,IT Support,65251,None,0,0.0,Premium,None,None,25,Married
+E00417,34,31 - 40,Male,WFH,Marketing,Brand Strategist,118760,None,0,0.0,None,None,None,25,Married
+E00418,33,31 - 40,Female,WFH,Sales,Sales Associate,61536,Roth,8,35297.48,Premium,Premium,Standard,15,Married
+E00419,28,20 - 30,Female,WFH,IT,IT Support,115455,Safe Harbor,0,0.0,None,Standard,Standard,23,Married
+E00420,41,41 - 50,Male,On-site,HR,HR Coordinator,55109,Safe Harbor,7,13196.72,Standard,None,Standard,19,Married
+E00421,27,20 - 30,Female,Hybrid,IT,Network Engineer,79759,401(k),7,13099.28,Standard,Standard,Standard,16,Married
+E00422,37,31 - 40,Female,On-site,Finance,Finance Manager,76589,Roth,10,34923.86,Standard,Standard,Standard,17,Married
+E00423,51,51 - 60,Female,On-site,HR,HR Coordinator,56154,401(k),7,30713.28,None,None,None,23,Married
+E00424,57,51 - 60,Female,WFH,IT,Systems Administrator,102648,Roth,10,77176.59,Premium,None,Standard,14,Married
+E00425,43,41 - 50,Male,Hybrid,Sales,Sales Manager,125304,Roth,0,0.0,Standard,Premium,None,23,Married
+E00426,65,61 - 70,Male,WFH,Marketing,Marketing Manager,88559,None,0,0.0,Premium,Standard,Standard,17,Married
+E00427,41,41 - 50,Male,On-site,Engineering,Lead Engineer,146347,Roth,6,36125.6,Standard,Standard,None,19,Married
+E00428,51,51 - 60,Male,WFH,Marketing,Brand Strategist,111681,Simple,6,11068.12,Standard,Standard,Standard,12,Married
+E00429,52,51 - 60,Male,WFH,Sales,Sales Manager,95004,None,0,0.0,None,None,None,25,Divorced
+E00430,52,51 - 60,Male,Hybrid,HR,HR Manager,138652,Simple,6,35108.45,Standard,Premium,None,18,Married
+E00431,21,20 - 30,Male,WFH,Finance,Financial Analyst,131061,Safe Harbor,9,33118.57,None,None,Standard,21,Single
+E00432,69,61 - 70,Female,Hybrid,Finance,Accountant,118577,401(k),4,11892.53,None,Premium,Standard,12,Divorced
+E00433,59,51 - 60,Male,Hybrid,IT,IT Support,121626,401(k),7,62647.08,None,Premium,Standard,17,Married
+E00434,28,20 - 30,Male,On-site,Finance,Accountant,76015,None,0,0.0,Standard,Premium,None,20,Married
+E00435,69,61 - 70,Female,Hybrid,Sales,Account Executive,140827,None,0,0.0,Standard,None,None,19,Married
+E00436,27,20 - 30,Male,On-site,IT,Network Engineer,76289,None,0,0.0,Standard,None,None,23,Divorced
+E00437,39,31 - 40,Male,WFH,Engineering,DevOps Engineer,63629,Roth,9,47722.28,Premium,Standard,None,18,Divorced
+E00438,30,20 - 30,Female,Hybrid,Marketing,Marketing Manager,96163,None,0,0.0,Premium,Standard,None,15,Single
+E00439,25,20 - 30,Female,Hybrid,Marketing,Brand Strategist,77961,None,0,0.0,Standard,Premium,Standard,17,Divorced
+E00440,45,41 - 50,Male,On-site,Marketing,Marketing Manager,83662,Roth,5,5717.41,Standard,None,Standard,23,Single
+E00441,61,51 - 60,Female,Hybrid,Sales,Account Executive,86877,401(k),5,32680.69,Premium,None,Standard,23,Single
+E00442,42,41 - 50,Female,WFH,Finance,Accountant,51560,Safe Harbor,7,23610.22,Standard,None,Standard,14,Married
+E00443,65,61 - 70,Female,Hybrid,Marketing,Marketing Manager,102579,Safe Harbor,7,18949.86,Standard,Premium,Standard,18,Married
+E00444,51,51 - 60,Male,Hybrid,Engineering,Lead Engineer,139899,Safe Harbor,4,6646.6,None,Standard,None,14,Married
+E00445,41,41 - 50,Female,On-site,Sales,Sales Manager,87412,None,0,0.0,None,Premium,Standard,19,Single
+E00446,60,51 - 60,Female,Hybrid,Marketing,Content Specialist,141194,Simple,5,12239.67,Premium,Standard,None,14,Divorced
+E00447,54,51 - 60,Female,Hybrid,IT,Network Engineer,95500,Simple,7,31858.02,None,Standard,None,12,Married
+E00448,26,20 - 30,Male,Hybrid,IT,Network Engineer,80027,401(k),0,0.0,Standard,None,None,25,Divorced
+E00449,40,31 - 40,Male,Hybrid,Marketing,Content Specialist,109321,401(k),7,65935.27,Premium,Premium,Standard,16,Married
+E00450,23,20 - 30,Female,On-site,Engineering,Software Engineer,75963,Safe Harbor,8,60094.91,Premium,None,Standard,19,Married
+E00451,69,61 - 70,Male,On-site,Marketing,Brand Strategist,130818,Safe Harbor,10,82317.56,Standard,Premium,None,21,Single
+E00452,53,51 - 60,Male,On-site,Marketing,Marketing Manager,72015,401(k),6,38286.67,None,Standard,None,13,Married
+E00453,55,51 - 60,Female,Hybrid,Marketing,Marketing Manager,95350,Roth,4,37869.97,Premium,Standard,Standard,21,Divorced
+E00454,31,31 - 40,Female,WFH,Marketing,Content Specialist,98364,Simple,4,26298.76,Premium,Premium,None,12,Divorced
+E00455,54,51 - 60,Female,Hybrid,HR,HR Coordinator,69975,Safe Harbor,6,38547.66,Standard,None,None,18,Single
+E00456,61,51 - 60,Female,On-site,HR,Recruiter,116061,Safe Harbor,8,52121.02,Standard,Premium,None,16,Single
+E00457,24,20 - 30,Female,WFH,HR,HR Coordinator,94965,Safe Harbor,7,32802.26,None,None,Standard,17,Divorced
+E00458,66,61 - 70,Female,On-site,IT,Systems Administrator,148317,None,0,0.0,Premium,None,Standard,19,Divorced
+E00459,58,51 - 60,Female,Hybrid,Engineering,Lead Engineer,97064,Roth,6,36903.1,Standard,Premium,Standard,17,Single
+E00460,36,31 - 40,Female,Hybrid,Marketing,Brand Strategist,111272,None,0,0.0,Premium,Premium,None,20,Single
+E00461,47,41 - 50,Female,WFH,Finance,Accountant,117649,Simple,5,40651.44,None,Premium,None,12,Divorced
+E00462,59,51 - 60,Female,Hybrid,Sales,Account Executive,136475,Safe Harbor,10,62368.23,None,None,Standard,18,Divorced
+E00463,66,61 - 70,Female,Hybrid,HR,Recruiter,102233,Safe Harbor,5,25446.92,Standard,Standard,None,21,Divorced
+E00464,48,41 - 50,Male,Hybrid,Sales,Sales Associate,126619,Simple,8,23417.52,Premium,Standard,None,16,Single
+E00465,39,31 - 40,Male,On-site,Marketing,Brand Strategist,129530,Safe Harbor,6,57208.18,None,Premium,None,17,Divorced
+E00466,39,31 - 40,Male,On-site,IT,Network Engineer,135112,None,0,0.0,Premium,None,Standard,22,Married
+E00467,56,51 - 60,Male,On-site,Finance,Accountant,101886,401(k),7,41377.18,None,Standard,None,12,Married
+E00468,68,61 - 70,Male,Hybrid,Marketing,Marketing Manager,59847,None,0,0.0,None,Premium,Standard,23,Married
+E00469,47,41 - 50,Female,Hybrid,Sales,Sales Associate,133310,Roth,9,72266.5,Premium,Premium,Standard,22,Married
+E00470,39,31 - 40,Male,WFH,HR,HR Manager,70337,Roth,8,8517.99,Standard,None,None,16,Divorced
+E00471,39,31 - 40,Female,Hybrid,HR,Recruiter,50281,Simple,7,23793.06,Premium,Standard,None,14,Married
+E00472,25,20 - 30,Female,On-site,Marketing,Marketing Manager,126260,Simple,7,15882.25,None,None,None,12,Single
+E00473,68,61 - 70,Female,Hybrid,Engineering,Lead Engineer,114178,Safe Harbor,8,65710.54,None,Premium,Standard,15,Married
+E00474,69,61 - 70,Female,WFH,Sales,Sales Manager,51239,Safe Harbor,5,2675.85,None,Standard,None,13,Single
+E00475,44,41 - 50,Male,WFH,Engineering,Software Engineer,139393,None,0,0.0,Premium,Premium,None,24,Divorced
+E00476,58,51 - 60,Female,WFH,Sales,Account Executive,106503,Simple,9,54593.58,Premium,Premium,None,18,Single
+E00477,63,61 - 70,Male,WFH,IT,Network Engineer,129141,Simple,6,16517.19,Premium,Standard,Standard,25,Single
+E00478,64,61 - 70,Male,WFH,Engineering,Lead Engineer,128131,None,0,0.0,Premium,Premium,Standard,13,Single
+E00479,61,51 - 60,Male,WFH,Finance,Financial Analyst,132811,401(k),9,29421.53,None,None,Standard,16,Married
+E00480,20,20 - 30,Male,WFH,Finance,Finance Manager,73196,Safe Harbor,10,22771.65,Standard,Premium,None,17,Divorced
+E00481,66,61 - 70,Female,WFH,Finance,Accountant,98320,Roth,9,86786.21,Standard,None,None,22,Married
+E00482,29,20 - 30,Female,Hybrid,Engineering,Software Engineer,105409,Simple,4,27661.96,Standard,Premium,None,19,Divorced
+E00483,66,61 - 70,Female,On-site,Sales,Sales Associate,146999,Safe Harbor,0,0.0,None,None,None,23,Married
+E00484,46,41 - 50,Female,Hybrid,Finance,Financial Analyst,92823,Safe Harbor,0,0.0,Premium,Standard,Standard,25,Married
+E00485,23,20 - 30,Female,WFH,HR,HR Coordinator,81890,Simple,9,51074.57,Standard,Premium,Standard,16,Single
+E00486,67,61 - 70,Male,Hybrid,Engineering,DevOps Engineer,128916,Safe Harbor,0,0.0,None,Premium,Standard,21,Married
+E00487,47,41 - 50,Male,Hybrid,Finance,Accountant,119569,Simple,4,30822.9,Premium,Standard,None,20,Married
+E00488,52,51 - 60,Female,WFH,Sales,Sales Manager,123384,Simple,0,0.0,Premium,None,None,24,Married
+E00489,28,20 - 30,Female,On-site,Sales,Account Executive,135150,Roth,0,0.0,None,Premium,Standard,22,Single
+E00490,23,20 - 30,Male,Hybrid,IT,Network Engineer,79165,Simple,6,33288.92,Premium,Standard,Standard,17,Married
+E00491,53,51 - 60,Female,Hybrid,Finance,Financial Analyst,123297,401(k),7,70602.65,None,Standard,Standard,14,Single
+E00492,64,61 - 70,Male,WFH,Finance,Accountant,53712,Simple,10,19722.1,Premium,Premium,Standard,18,Single
+E00493,44,41 - 50,Female,Hybrid,Finance,Accountant,101924,401(k),9,61202.21,Standard,None,None,21,Single
+E00494,26,20 - 30,Female,Hybrid,Sales,Account Executive,59108,Safe Harbor,5,13290.5,Standard,None,None,20,Single
+E00495,52,51 - 60,Female,WFH,Marketing,Marketing Manager,58927,Simple,0,0.0,Premium,Premium,Standard,14,Divorced
+E00496,63,61 - 70,Female,On-site,HR,HR Coordinator,129973,Simple,4,32667.7,Standard,Standard,None,19,Married
+E00497,65,61 - 70,Female,Hybrid,Marketing,Brand Strategist,110233,401(k),4,22802.56,None,Premium,Standard,14,Married
+E00498,40,31 - 40,Male,WFH,Engineering,Software Engineer,143977,Roth,10,81659.95,Premium,None,None,17,Single
+E00499,47,41 - 50,Male,WFH,Sales,Sales Manager,81348,401(k),7,23183.05,None,Standard,Standard,23,Married
+E00500,24,20 - 30,Male,WFH,HR,HR Manager,131889,Roth,10,82055.42,None,Standard,None,23,Divorced
