@@ -3,6 +3,7 @@
 ## Project
 Design and implement a Power BI dashboard to visualize employee selections for insurance, work arrangements, and retirement plans.
 
+<img src="https://github.com/Sarah269/supreme-fiesta/blob/main/HR%20Benefits%20Overview/HR_Benefits_Dashboard.png" height=350>
 
 ## Data Source
 - Chatgpt python script used to generate mock Human Resources data
