@@ -1,5 +1,8 @@
 # Dashboards
 - Power BI Dashboards
+
+    - [Customer RFM](https://github.com/Sarah269/supreme-fiesta/tree/main/CustomerRFM)
+    - [Anti-Money Laundering](https://github.com/Sarah269/supreme-fiesta/tree/main/AML)
     - [Bikes Shares](https://github.com/Sarah269/supreme-fiesta/tree/main/BikeShares)
     - [Customer Personality](https://github.com/Sarah269/supreme-fiesta/tree/main/Customer%20Personality)
     - [Financial KPI](https://github.com/Sarah269/supreme-fiesta/tree/main/Financial%20KPI)
