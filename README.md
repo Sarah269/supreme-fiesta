@@ -18,7 +18,7 @@
     - [ABC](https://github.com/Sarah269/supreme-fiesta/tree/main/ABC)
     - [Cars II](https://github.com/Sarah269/supreme-fiesta/tree/main/CarsII)
 
-- Excel
+- Excel Online
     - [Bike Sales](https://github.com/Sarah269/glowing-dollop/tree/main/Bike%20Sales)
     - [Coffee Profit](https://github.com/Sarah269/glowing-dollop/tree/main/Coffee%20Profit)
     - [Coffee Sales](https://github.com/Sarah269/glowing-dollop/tree/main/Coffee%20Sales)
