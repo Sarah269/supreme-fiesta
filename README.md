@@ -6,6 +6,7 @@
     - [Infrastructure](https://github.com/Sarah269/supreme-fiesta/tree/main/Infrastructure)
     - [Customer RFM](https://github.com/Sarah269/supreme-fiesta/tree/main/CustomerRFM)
     - [Anti-Money Laundering](https://github.com/Sarah269/supreme-fiesta/tree/main/AML)
+    - [Kafka](https://github.com/Sarah269/supreme-fiesta/tree/main/Kafka)
     - [Manufacturing](https://github.com/Sarah269/supreme-fiesta/tree/main/Manufacturing)
     - [NC Schools](https://github.com/Sarah269/supreme-fiesta/tree/main/NC%20Schools)
     - [Unicorn Companies](https://github.com/Sarah269/supreme-fiesta/tree/main/Unicorn%20Companies)
