@@ -22,9 +22,9 @@
     - [Cars II](https://github.com/Sarah269/supreme-fiesta/tree/main/CarsII)
 
 - Excel Online
-    - [Bike Sales](https://github.com/Sarah269/glowing-dollop/tree/main/Bike%20Sales)
+    - [Supermarket Sales](https://github.com/Sarah269/glowing-dollop/tree/main/SupermarketSales)
     - [Coffee Profit](https://github.com/Sarah269/glowing-dollop/tree/main/Coffee%20Profit)
     - [Coffee Sales](https://github.com/Sarah269/glowing-dollop/tree/main/Coffee%20Sales)
-    - [Supermarket Sales](https://github.com/Sarah269/glowing-dollop/tree/main/SupermarketSales)
+    - [Bike Sales](https://github.com/Sarah269/glowing-dollop/tree/main/Bike%20Sales)
     - [ER Ortho](https://github.com/Sarah269/glowing-dollop/tree/main/ER_Ortho)
       
