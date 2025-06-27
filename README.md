@@ -12,8 +12,6 @@
     - [NC Schools](https://github.com/Sarah269/supreme-fiesta/tree/main/NC%20Schools)
     - [Unicorn Companies](https://github.com/Sarah269/supreme-fiesta/tree/main/Unicorn%20Companies)
     
-      
-
 -  [Tableau Dashboards (Public Tableau)](https://public.tableau.com/app/profile/s.pfeiffer2269/vizzes)
   
     - [Car Dealership Dashboard II](https://public.tableau.com/views/CarsII/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
@@ -26,8 +24,9 @@
     - [Branch YTD Sales Dashboard](https://public.tableau.com/views/Sales-Branch/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 - Excel Online
+  
     - [ER Orthopedics](https://github.com/Sarah269/glowing-dollop/tree/main/ER_Ortho)
     - [Supermarket Sales](https://github.com/Sarah269/glowing-dollop/tree/main/SupermarketSales)
     - [Coffee Profit](https://github.com/Sarah269/glowing-dollop/tree/main/Coffee%20Profit)
-    
+    - [Bike Sales](https://github.com/Sarah269/glowing-dollop/tree/main/Bike%20Sales)
       
