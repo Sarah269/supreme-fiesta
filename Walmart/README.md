@@ -3,7 +3,10 @@
 ## Project
 How well did Walmart stores perform during the period 1/10/2010 to 12/10/2012? 
 
+
+
 ## Data
+- [Kaggle Walmart Dataset](https://www.kaggle.com/datasets/yasserh/walmart-dataset/data)
 
 ## Tools
 Power BI (DAX, Data Model, Slicers)
