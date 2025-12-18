@@ -1,12 +1,17 @@
 # Infrastructure Dashboard
 
 ## Project
-Create a dashboard that provides a high-level status update on activity in the data centers.
+Developed an integrated Infrastructure Summary Dashboard to provide executive-level visibility into mission-critical data center operations. By consolidating complex data streams, this tool serves as the "single source of truth" for infrastructure health and project velocity.
 
-<img src ="https://github.com/Sarah269/supreme-fiesta/blob/main/Infrastructure/InfrastructureUpdate.png" height=400>
+<img src ="" height=400>
 
 ## Data Source
 -  Mock data generated in Excel Online
 
 ## Tools
-- Excel Online, Power BI
+- Excel Online
+- PowerBI
+    - DAX
+    - 7 table relational data model
+
+
