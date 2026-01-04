@@ -13,5 +13,12 @@ Developed an integrated Infrastructure Summary Dashboard to provide executive-le
 - PowerBI
     - DAX
     - 7 table relational data model
+      - Projects
+      - Ticketing
+      - Refresh
+      - Server Deployment
+      - Changes
+      - Date table
+      - Data Center
 
 
