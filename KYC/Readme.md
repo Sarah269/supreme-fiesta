@@ -11,4 +11,4 @@ Design a dashboard that provides a status update on Know Your Customer Complianc
 
 ## Tools
 - Excel, Power BI (DAX, Added Column)
-- ChatGPT:  mock data, dashboard design
+- ChatGPT:  mock data examples
